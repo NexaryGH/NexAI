@@ -1,5 +1,7 @@
 {
-  "homepage": "https://NexaryGH.github.io/NexAI",
+  "homepage": "https://NexaryGH.github.io/NexAI/",
+  "name": "nexai",
+  "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,7 +23,6 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   },
-  "main": "/index.js",
   "browserslist": {
     "production": [
       ">0.2%",
